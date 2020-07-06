@@ -1,0 +1,17 @@
+Best Practees to install and Run Wordpress using Docker Conatriner 
+
+Note : install Doker-compose
+pip  Doker-compose
+
+1- create folder
+mkidr siteWeb
+
+2- create file docker-compose.yml
+touch docker-compose.yml
+
+3- copy Script 
+
+4- run docker-compose.yml
+
+5- Browser : 127.0.0.1:8000
+
